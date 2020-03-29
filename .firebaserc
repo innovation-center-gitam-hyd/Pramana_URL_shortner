@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "pramanagh"
+  },
+  "targets": {
+    "pramanagh": {
+      "hosting": {
+        "sub": [
+          "pramana"
+        ],
+        "main": [
+          "pramanagh"
+        ]
+      }
+    }
+  }
+}
